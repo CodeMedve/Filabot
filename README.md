@@ -24,3 +24,7 @@ Display: Creality stock display
  E0 - Y1 motor
  
  E1 - Y2 motor
+
+ 3x SG90 Servo
+ 
+ For firmware use uploaded modified marlin fw.
