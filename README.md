@@ -1,12 +1,17 @@
 # Filabot
 
+![filabot](filabot_photo.jpg)
+
+# Printed parts:
+
  Print parts with -0.15mm horizontal compensation (Simplify3D)
 
 ![filabot](filabot.jpg)
 
+# Electronics and Ramps board setting:
+
 Motors 28BYJ-48 – 5V (modified for bipolar drive)
 
-# Ramps board setting:
 RED A4988 at 0.2V Vref
 
 Display: Creality stock display
