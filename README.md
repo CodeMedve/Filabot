@@ -4,8 +4,12 @@
 
 ![filabot](filabot.jpg)
 
+Motors 28BYJ-48 – 5V (modified for bipolar drive)
 
-Ramps board setting:
+# Ramps board setting:
+RED A4988 at 0.2V Vref
+
+Display: Creality stock display
 
  X  - X1 motor
  
