@@ -11,7 +11,7 @@
 # Electronics and Ramps board setting:
 
 Motors 28BYJ-48–5V (modified for bipolar drive)
-![Motor bipolar wiring](28BYJ-48–5V_connector_change.jpg)
+![Motor_bipolar_wiring](28BYJ-48–5V_connector_change.jpg)
 
 RED A4988 at 0.2V Vref
 
