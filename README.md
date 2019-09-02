@@ -1,5 +1,7 @@
 # Filabot
 
+[Youtube video](https://youtu.be/06n4PUvLDjU)
+
 ![filabot](filabot_photo.jpg)
 
 # Printed parts:
