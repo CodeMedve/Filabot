@@ -10,10 +10,12 @@
 
 # Electronics and Ramps board setting:
 
-Motors 28BYJ-48–5V (modified for bipolar drive)
+Electronics: Ramps 1.4 with Arduino mega
+
+Motors: 4x 28BYJ-48–5V (modified for bipolar drive)
 ![Motor_bipolar_wiring](28BYJ-48–5V_connector_change.jpg)
 
-RED A4988 at 0.2V Vref
+Steppper drivers: 4x RED A4988 module at 0.2V Vref
 
 Display: Creality stock display
 
